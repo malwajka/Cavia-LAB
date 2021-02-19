@@ -1,0 +1,337 @@
+{
+  "guinea-pigs": [
+    {
+      "id": 1,
+      "brand": "smooth-haired",
+      "name": "Kola",
+      "gender": "♀",
+      "price": "120",
+      "description": "",
+      "image": "/images/id1.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "smooth-haired",
+      "name": "Koka",
+      "gender": "♀",
+      "price": "120",
+      "description": "",
+      "image": "/images/id2.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "smooth-haired",
+      "name": "Zosia",
+      "gender": "♀",
+      "price": "120",
+      "description": "",
+      "image": "/images/id3.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "smooth-haired",
+      "name": "Zuzia",
+      "gender": "♀",
+      "price": "120",
+      "description": "",
+      "image": "/images/id4.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "smooth-haired",
+      "name": "Tosia",
+      "gender": "♀",
+      "price": "120",
+      "description": "",
+      "image": "/images/id5.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "smooth-haired",
+      "name": "Koko",
+      "gender": "♂",
+      "price": "120",
+      "description": "",
+      "image": "/images/id6.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "smooth-haired",
+      "name": "Harry",
+      "gender": "♂",
+      "price": "120",
+      "description": "",
+      "image": "/images/id7.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "smooth-haired",
+      "name": "Bobby",
+      "gender": "♂",
+      "price": "120",
+      "description": "",
+      "image": "/images/id8.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "smooth-haired",
+      "name": "Jackie",
+      "gender": "♂",
+      "price": "120",
+      "description": "",
+      "image": "/images/id9.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "smooth-haired",
+      "name": "Mickey",
+      "gender": "♂",
+      "price": "120",
+      "description": "",
+      "image": "/images/id10.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "peruvian",
+      "name": "Layla",
+      "gender": "♀",
+      "price": "150",
+      "description": "",
+      "image": "/images/id11.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "peruvian",
+      "name": "Lilo",
+      "gender": "♂",
+      "price": "150",
+      "description": "",
+      "image": "/images/id12.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "peruvian",
+      "name": "Amy",
+      "gender": "♀",
+      "price": "150",
+      "description": "",
+      "image": "/images/id13.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "peruvian",
+      "name": "Jackson",
+      "gender": "♂",
+      "price": "150",
+      "description": "",
+      "image": "/images/id14.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "peruvian",
+      "name": "Miley",
+      "gender": "♀",
+      "price": "150",
+      "description": "",
+      "image": "/images/id15.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "peruvian",
+      "name": "Zack",
+      "gender": "♂",
+      "price": "150",
+      "description": "",
+      "image": "/images/id16.jpg"
+    },
+    {
+      "id": 17,
+      "brand": "peruvian",
+      "name": "Lilly",
+      "gender": "♀",
+      "price": "150",
+      "description": "",
+      "image": "/images/id17.jpg"
+    },
+    {
+      "id": 18,
+      "brand": "peruvian",
+      "name": "Troy",
+      "gender": "♂",
+      "price": "150",
+      "description": "",
+      "image": "/images/id18.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "peruvian",
+      "name": "Kesha",
+      "gender": "♀",
+      "price": "150",
+      "description": "",
+      "image": "/images/id19.jpg"
+    },
+    {
+      "id": 20,
+      "brand": "peruvian",
+      "name": "Klaus",
+      "gender": "♂",
+      "price": "150",
+      "description": "",
+      "image": "/images/id20.jpg"
+    },
+    {
+      "id": 21,
+      "brand": "rosette",
+      "name": "Kiko",
+      "gender": "♂",
+      "price": "140",
+      "description": "",
+      "image": "/images/id21.jpg"
+    },
+    {
+      "id": 22,
+      "brand": "rosette",
+      "name": "Claire",
+      "gender": "♀",
+      "price": "140",
+      "description": "",
+      "image": "/images/id22.jpg"
+    },
+    {
+      "id": 23,
+      "brand": "rosette",
+      "name": "Elijah",
+      "gender": "♂",
+      "price": "140",
+      "description": "",
+      "image": "/images/id23.jpg"
+    },
+    {
+      "id": 24,
+      "brand": "rosette",
+      "name": "Elma",
+      "gender": "♀",
+      "price": "140",
+      "description": "",
+      "image": "/images/id24.jpg"
+    },
+    {
+      "id": 25,
+      "brand": "rosette",
+      "name": "Damon",
+      "gender": "♂",
+      "price": "140",
+      "description": "",
+      "image": "/images/id25.jpg"
+    },
+    {
+      "id": 26,
+      "brand": "teddy",
+      "name": "Jumper",
+      "gender": "♂",
+      "price": "170",
+      "description": "",
+      "image": "/images/id26.jpg"
+    },
+    {
+      "id": 27,
+      "brand": "teddy",
+      "name": "Jelly",
+      "gender": "♀",
+      "price": "170",
+      "description": "",
+      "image": "/images/id27.jpg"
+    },
+    {
+      "id": 28,
+      "brand": "teddy",
+      "name": "Songo",
+      "gender": "♂",
+      "price": "170",
+      "description": "",
+      "image": "/images/id28.jpg"
+    },
+    {
+      "id": 29,
+      "brand": "teddy",
+      "name": "Katie",
+      "gender": "♀",
+      "price": "170",
+      "description": "",
+      "image": "/images/id29.jpg"
+    },
+    {
+      "id": 30,
+      "brand": "teddy",
+      "name": "Draco",
+      "gender": "♂",
+      "price": "170",
+      "description": "",
+      "image": "/images/id30.jpg"
+    },
+    {
+      "id": 31,
+      "brand": "teddy",
+      "name": "Luna",
+      "gender": "♀",
+      "price": "170",
+      "description": "",
+      "image": "/images/id31.jpg"
+    },
+    {
+      "id": 32,
+      "brand": "teddy",
+      "name": "Ayana",
+      "gender": "♀",
+      "price": "170",
+      "description": "",
+      "image": "/images/id32.jpg"
+    },
+    {
+      "id": 33,
+      "brand": "skinny",
+      "name": "Sphinx",
+      "gender": "♂",
+      "price": "310",
+      "description": "",
+      "image": "/images/id33.jpg"
+    },
+    {
+      "id": 34,
+      "brand": "skinny",
+      "name": "Smoothy",
+      "gender": "♀",
+      "price": "310",
+      "description": "",
+      "image": "/images/id34.jpg"
+    },
+    {
+      "id": 35,
+      "brand": "skinny",
+      "name": "Jerry",
+      "gender": "♂",
+      "price": "310",
+      "description": "",
+      "image": "/images/id35.jpg"
+    },
+    {
+      "id": 36,
+      "brand": "skinny",
+      "name": "Harold",
+      "gender": "♂",
+      "price": "310",
+      "description": "",
+      "image": "/images/id36.jpg"
+    },
+    {
+      "id": 37,
+      "brand": "skinny",
+      "name": "Gracy",
+      "gender": "♀",
+      "price": "310",
+      "description": "",
+      "image": "/images/id37.jpg"
+    }
+  ]
+}

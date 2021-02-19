@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&display=swap');
+
+$logo-color: #400013;
+
+* {
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+body {
+  background-color: #B1B1B1;
+}
+
+.logo {
+  color: $logo-color;
+  font-family: 'Long Cang', cursive;
+  font-size: 3rem;
+  margin-left: 30px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+

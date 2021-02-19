@@ -1,0 +1,29 @@
+.animals_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.animals_list {
+  background-color: #C6C6C6;
+  display: flex;
+  margin: 15px;
+  max-width: 1000px;
+}
+
+.brand_img {
+  height: 200px;
+  width: 200px;
+
+  @media (min-width: 700px) {
+    height: 400px;
+    width: 400px;
+  }
+}
+
+.brand_list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 1.2rem;
+}
