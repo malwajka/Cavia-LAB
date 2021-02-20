@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/cavia-lab/static/css/main.23598472.chunk.css",
-    "main.js": "/cavia-lab/static/js/main.9221ea19.chunk.js",
-    "main.js.map": "/cavia-lab/static/js/main.9221ea19.chunk.js.map",
-    "runtime-main.js": "/cavia-lab/static/js/runtime-main.5eca3254.js",
-    "runtime-main.js.map": "/cavia-lab/static/js/runtime-main.5eca3254.js.map",
-    "static/js/2.aa9cf0f7.chunk.js": "/cavia-lab/static/js/2.aa9cf0f7.chunk.js",
-    "static/js/2.aa9cf0f7.chunk.js.map": "/cavia-lab/static/js/2.aa9cf0f7.chunk.js.map",
-    "static/js/3.027f1c30.chunk.js": "/cavia-lab/static/js/3.027f1c30.chunk.js",
-    "static/js/3.027f1c30.chunk.js.map": "/cavia-lab/static/js/3.027f1c30.chunk.js.map",
-    "index.html": "/cavia-lab/index.html",
-    "static/css/main.23598472.chunk.css.map": "/cavia-lab/static/css/main.23598472.chunk.css.map",
-    "static/js/2.aa9cf0f7.chunk.js.LICENSE.txt": "/cavia-lab/static/js/2.aa9cf0f7.chunk.js.LICENSE.txt",
-    "static/media/Mail Icon.64b59052.svg": "/cavia-lab/static/media/Mail Icon.64b59052.svg",
-    "static/media/Phone Icon.2eb4ce11.svg": "/cavia-lab/static/media/Phone Icon.2eb4ce11.svg",
-    "static/media/Header.scss": "/cavia-lab/static/media/cavia-header.0ea42480.jpg",
-    "static/media/cavia-home-img.04c42ca0.jpg": "/cavia-lab/static/media/cavia-home-img.04c42ca0.jpg",
-    "static/media/Animals.scss": "/cavia-lab/static/media/teddy.cdf1d828.jpg"
+    "main.css": "/Cavia-LAB/static/css/main.fca4ecc1.chunk.css",
+    "main.js": "/Cavia-LAB/static/js/main.9221ea19.chunk.js",
+    "main.js.map": "/Cavia-LAB/static/js/main.9221ea19.chunk.js.map",
+    "runtime-main.js": "/Cavia-LAB/static/js/runtime-main.e697adfb.js",
+    "runtime-main.js.map": "/Cavia-LAB/static/js/runtime-main.e697adfb.js.map",
+    "static/js/2.aa9cf0f7.chunk.js": "/Cavia-LAB/static/js/2.aa9cf0f7.chunk.js",
+    "static/js/2.aa9cf0f7.chunk.js.map": "/Cavia-LAB/static/js/2.aa9cf0f7.chunk.js.map",
+    "static/js/3.027f1c30.chunk.js": "/Cavia-LAB/static/js/3.027f1c30.chunk.js",
+    "static/js/3.027f1c30.chunk.js.map": "/Cavia-LAB/static/js/3.027f1c30.chunk.js.map",
+    "index.html": "/Cavia-LAB/index.html",
+    "static/css/main.fca4ecc1.chunk.css.map": "/Cavia-LAB/static/css/main.fca4ecc1.chunk.css.map",
+    "static/js/2.aa9cf0f7.chunk.js.LICENSE.txt": "/Cavia-LAB/static/js/2.aa9cf0f7.chunk.js.LICENSE.txt",
+    "static/media/Mail Icon.64b59052.svg": "/Cavia-LAB/static/media/Mail Icon.64b59052.svg",
+    "static/media/Phone Icon.2eb4ce11.svg": "/Cavia-LAB/static/media/Phone Icon.2eb4ce11.svg",
+    "static/media/Header.scss": "/Cavia-LAB/static/media/cavia-header.0ea42480.jpg",
+    "static/media/cavia-home-img.04c42ca0.jpg": "/Cavia-LAB/static/media/cavia-home-img.04c42ca0.jpg",
+    "static/media/Animals.scss": "/Cavia-LAB/static/media/teddy.cdf1d828.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5eca3254.js",
+    "static/js/runtime-main.e697adfb.js",
     "static/js/2.aa9cf0f7.chunk.js",
-    "static/css/main.23598472.chunk.css",
+    "static/css/main.fca4ecc1.chunk.css",
     "static/js/main.9221ea19.chunk.js"
   ]
 }
