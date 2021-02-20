@@ -12,7 +12,7 @@ export const BrandAnimals = () => {
 
     useEffect(() => {
         if (['smooth-haired', 'peruvian', 'rosette', 'teddy', 'skinny'].includes(brand)) {
-            const url = `http://localhost:3000/guinea-pigs?brand=${brand}`;
+            const url = `http://localhost:3001/guinea-pigs?brand=${brand}`;
             fetch(url)
                 .then((response) => response.json())
                 .then((animals) => {
@@ -30,6 +30,7 @@ export const BrandAnimals = () => {
     return (
         <Template>
             <div className='animals_container container'>
+                {/*<img src='../../public/images/id1.jpg' className='brand_img'/>*/}
                 {animals.map(animal => (
                     <div className='animals_list'>
                         <img src={animal.image} className='brand_img'/>
